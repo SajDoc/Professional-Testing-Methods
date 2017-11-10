@@ -215,6 +215,8 @@ namespace ShoppingCartDemo
             Console.WriteLine("Please choose from the following menu:");
 
             //TODO2: Put this in a loop
+            // check error
+
             for (int i = 0; i < listSize; i++)
                
             {
